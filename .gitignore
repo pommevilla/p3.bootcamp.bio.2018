@@ -6,7 +6,7 @@ __pycache__/
 .DS_Store
 
 # Files written for pres
-test
+test*
 
 # C extensions
 *.so
