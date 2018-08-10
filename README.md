@@ -5,7 +5,9 @@ Materials for the *Introduction to Biopython, Jupyter, and Github* section of th
 * [*Introduction to R*][intro-to-r] taught by [Schuyler Smith][schuyler-github]
 * [*Introduction to Python*][intro-to-python] taught by [Paul Villanueva][paul-github]
 * [*Introduction to UNIX*][intro-to-unix] taught by [Shane Dooley][shane-github].
-* *Introduction to Biopython, Jupyter, and Github* taught by [Paul Villanueva][paul-github]
+* [*Introduction to Biopython, Jupyter, and Github*][intro-to-bio] taught by [Paul Villanueva][paul-github]
+
+This workshop only includes the material for the Introduction to Biopython segment.  The Jupyter and Github segments are part of the in-class lecture.
 
 ## About These Workshops
 
@@ -35,3 +37,4 @@ Send questions, comments, feedback, and hate mail to pev at iastate dot edu.
 [paul-github]: https://github.com/pommevilla
 [intro-to-unix]: https://github.com/skDooley/shell_tutorial
 [shane-github]: https://github.com/skDooley
+[intro-to-bio]: https://github.com/pommevilla/p3.bootcamp.bio.2018/blob/master/lessons/P3Bootcamp2018-01.ipynb
